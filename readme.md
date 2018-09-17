@@ -5,7 +5,7 @@
 ### Hardware
 
 * MCU: PIC16F1508/PIC16F1509
-* Display: OLED Display based on SSD1306 128*64 or 128*32
+* Display: OLED Display based on SSD1306 128\*64 or 128\*32
 * Senser: Photointerrupter / Photoreflector
 
 ### Build environment
