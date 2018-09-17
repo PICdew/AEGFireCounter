@@ -14,7 +14,7 @@
     This header file provides implementations for pin APIs for all pins selected in the GUI.
     Generation Information :
         Product Revision  :  PIC10 / PIC12 / PIC16 / PIC18 MCUs - 1.65.2
-        Device            :  PIC16F1508
+        Device            :  PIC16F1509
         Driver Version    :  2.11
     The generated drivers are tested against the following:
         Compiler          :  XC8 1.45
@@ -68,14 +68,14 @@ void PIN_MANAGER_Initialize(void)
     */
     TRISA = 0x3F;
     TRISB = 0x70;
-    TRISC = 0xDD;
+    TRISC = 0xDB;
 
     /**
     ANSELx registers
     */
-    ANSELC = 0x4D;
+    ANSELC = 0x4F;
     ANSELB = 0x30;
-    ANSELA = 0x13;
+    ANSELA = 0x00;
 
     /**
     WPUx registers

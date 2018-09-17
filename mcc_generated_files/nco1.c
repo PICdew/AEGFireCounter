@@ -14,7 +14,7 @@
      This source file provides implementations for driver APIs for NCO1.
      Generation Information :
          Product Revision  :  PIC10 / PIC12 / PIC16 / PIC18 MCUs - 1.65.2
-         Device            :  PIC16F1508
+         Device            :  PIC16F1509
          Driver Version    :  2.11
      The generated drivers are tested against the following:
          Compiler          :  XC8 1.45 or later
@@ -58,8 +58,8 @@
 void NCO1_Initialize (void)
 {
     // Set the NCO to the options selected in the GUI
-    // N1OE enabled; N1EN disabled; N1POL active_hi; N1PFM PFM_mode; 
-    NCO1CON = 0x51;
+    // N1OE disabled; N1EN disabled; N1POL active_hi; N1PFM PFM_mode; 
+    NCO1CON = 0x11;
     // N1CKS HFINTOSC_16MHz; N1PWS 128_clk; 
     NCO1CLK = 0xE0;
     // 

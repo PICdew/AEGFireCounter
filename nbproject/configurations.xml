@@ -56,6 +56,9 @@
       <itemPath>Makefile</itemPath>
       <itemPath>CodeConfig.mc3</itemPath>
       <itemPath>.gitignore</itemPath>
+      <itemPath>License.txt</itemPath>
+      <itemPath>readme.md</itemPath>
+      <itemPath>MyConfig.mc3</itemPath>
     </logicalFolder>
   </logicalFolder>
   <sourceRootList>

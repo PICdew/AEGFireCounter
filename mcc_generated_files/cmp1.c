@@ -14,7 +14,7 @@
      This source file provides implementations for driver APIs for CMP1.
      Generation Information :
          Product Revision  :  PIC10 / PIC12 / PIC16 / PIC18 MCUs - 1.65.2
-         Device            :  PIC16F1508
+         Device            :  PIC16F1509
          Driver Version    :  2.11
      The generated drivers are tested against the following:
          Compiler          :  XC8 1.45 or later

@@ -14,7 +14,7 @@
     This header file provides implementations for driver APIs for all modules selected in the GUI.
     Generation Information :
         Product Revision  :  PIC10 / PIC12 / PIC16 / PIC18 MCUs - 1.65.2
-        Device            :  PIC16F1508
+        Device            :  PIC16F1509
         Driver Version    :  2.00
 */
 
