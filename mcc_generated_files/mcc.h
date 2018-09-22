@@ -54,9 +54,9 @@
 #include "interrupt_manager.h"
 #include "nco1.h"
 #include "tmr2.h"
-#include "dac.h"
-#include "cmp1.h"
 #include "clc1.h"
+#include "cmp1.h"
+#include "dac.h"
 #include "tmr0.h"
 
 
