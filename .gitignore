@@ -85,3 +85,5 @@ disassembly/
 
 
 # End of https://www.gitignore.io/api/c,mplabx,netbeans
+
+font/ 
